@@ -24,4 +24,12 @@ Prerequisites
 Java 22 or higher
 Maven 3.6 or higher
 
+Clone and Run
+# Clone the repository
+git clone https://github.com/yourusername/daily-gratitude-app.git
 
+# Navigate to project directory
+cd daily-gratitude-app
+
+# Compile and run with Maven
+mvn clean javafx:run
