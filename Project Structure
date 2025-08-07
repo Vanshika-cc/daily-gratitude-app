@@ -1,0 +1,16 @@
+daily-gratitude-app/
+├── src/
+│   └── main/
+│       └── java/
+│           └── com/
+│               └── dailygratitude/
+│                   ├── Main.java
+│                   ├── model/
+│                   │   ├── Quote.java
+│                   │   └── GratitudeEntry.java
+│                   └── service/
+│                       ├── QuoteService.java
+│                       └── DatabaseService.java
+├── screenshots/
+├── pom.xml
+└── README.md
