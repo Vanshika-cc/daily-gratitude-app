@@ -36,3 +36,21 @@ cd daily-gratitude-app
 
 # Compile and run with Maven
 mvn clean javafx:run
+
+Development
+Database Schema
+The app uses SQLite with a simple schema for storing gratitude entries:
+
+Entry ID (Primary Key)
+Date/Timestamp
+Gratitude Text
+Entry Count
+
+Key Dependencies
+
+javafx-controls and javafx-fxml for UI components
+sqlite-jdbc for database connectivity
+jackson-databind for JSON processing
+
+Author
+Built with ❤️ for mindfulness and gratitude practice.
