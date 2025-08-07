@@ -1,6 +1,9 @@
 Daily Gratitude App
 A clean, minimalist desktop application for daily gratitude journaling built with JavaFX and SQLite database integration.
 
+<img width="1920" height="992" alt="Daily Gratitude" src="https://github.com/user-attachments/assets/56e8a329-8610-465f-8138-a86e74bd9195" />
+
+
 Features
 Daily Gratitude Journaling: Simple text area for writing daily reflections
 Entry Tracking: Real-time counter showing total entries and today's entries
