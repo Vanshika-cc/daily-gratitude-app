@@ -1,0 +1,5 @@
+com\dailygratitude\Main.class
+com\dailygratitude\service\QuoteService.class
+com\dailygratitude\model\Quote.class
+com\dailygratitude\service\DatabaseService.class
+com\dailygratitude\model\GratitudeEntry.class
