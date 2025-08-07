@@ -38,6 +38,7 @@ cd daily-gratitude-app
 mvn clean javafx:run
 
 Development
+
 Database Schema
 The app uses SQLite with a simple schema for storing gratitude entries:
 
@@ -53,4 +54,5 @@ sqlite-jdbc for database connectivity
 jackson-databind for JSON processing
 
 Author
+
 Built with ❤️ for mindfulness and gratitude practice.
